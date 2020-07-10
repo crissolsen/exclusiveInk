@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -97,3 +98,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# exclusiveInk
+A static site for Exclusive Ink Tattoos built with GatsbyJs, to deploy to Netlify
+>>>>>>> 96155145e4b8e6066d2d17845cac2ed3be47a36a
